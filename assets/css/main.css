@@ -2318,3 +2318,8 @@ button,
     border-top: 0;
     margin-top: 0;
     padding-top: 0; }
+
+.img-responsiva {
+  max-width: 100%;
+  height: auto;
+}
